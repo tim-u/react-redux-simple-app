@@ -1,0 +1,22 @@
+.sidebar {
+  background: #373277;
+  color: #fff;
+  height: 100%;
+  float: left;
+  width: 250px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 20px;
+}
+
+.item {
+  padding: 10px;
+}
+
+.item:hover,
+.item.active {
+  background-color: #605b9a;
+  cursor: pointer;
+}

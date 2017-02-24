@@ -1,0 +1,11 @@
+/*
+ *  Global CSS styles
+ */
+
+html {
+  font-family: 'Segoe UI','HelveticaNeue-Light',sans-serif;
+}
+
+html, body, body > div {
+  height: 100%;
+}

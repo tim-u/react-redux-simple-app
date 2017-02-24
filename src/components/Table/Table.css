@@ -1,0 +1,7 @@
+.table-container {
+  height: 100%;
+  overflow: auto;
+  margin-left: 250px;
+  padding: 10px 20px;
+  position: relative;
+}
